@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bank Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="account1_dialog_title">Account1</string>
+    <string name="account2_dialog_title">Account2</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
